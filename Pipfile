@@ -10,6 +10,9 @@ chatterbot-corpus = "*"
 pyyaml = "*"
 spacy = "*"
 pytz = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
