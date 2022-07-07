@@ -10,6 +10,7 @@ chatterbot-corpus = "*"
 pyyaml = "*"
 spacy = "*"
 pytz = "*"
+mysqlclient = "*"
 
 [dev-packages]
 
